@@ -11,15 +11,13 @@ export default function App() {
           This project was coded <a href="/">Nataliia Piddubna</a> and is
           open-sourced{" "}
           <a
-            href="https://github.com/NataSpace/react-weather-app.git"
-            target="_blank"
-          >
+            href="https://github.com/NataSpace/react-weather-app.git">
             on GitHub
           </a>{" "}
           and hosted{" "}
-          <a href="" target="_blank">
+          {/* <a href="">
             on Netlify
-          </a>
+          </a> */}
         </footer>
       </div>
     </div>
