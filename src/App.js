@@ -14,7 +14,7 @@ export default function App() {
             on GitHub
           </a>{" "}
           and hosted{" "}
-          <a href="https://cool-madeleine-f5dd54.netlify.app">
+          <a href="https://glittering-beijinho-5b247f.netlify.app">
             on Netlify
           </a>
         </footer>
