@@ -1,13 +1,12 @@
 import React from "react";
 import Weather from "./Weather";
-import './App.css';
-
+import "./App.css";
 
 export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather defaultCity="Neustadt an der Donau"/>
+        <Weather defaultCity="Neustadt an der Donau" />
         <footer>
           This project was coded <a href="/">Nataliia Piddubna</a> and is
           open-sourced{" "}
@@ -16,11 +15,13 @@ export default function App() {
             target="_blank"
           >
             on GitHub
+          </a>{" "}
+          and hosted{" "}
+          <a href="" target="_blank">
+            on Netlify
           </a>
         </footer>
       </div>
     </div>
   );
 }
-
-
