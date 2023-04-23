@@ -10,14 +10,13 @@ export default function App() {
         <footer>
           This project was coded <a href="/">Nataliia Piddubna</a> and is
           open-sourced{" "}
-          <a
-            href="https://github.com/NataSpace/react-weather-app.git">
+          <a href="https://github.com/NataSpace/react-weather-app.git">
             on GitHub
           </a>{" "}
           and hosted{" "}
-          {/* <a href="">
+          <a href="https://cool-madeleine-f5dd54.netlify.app">
             on Netlify
-          </a> */}
+          </a>
         </footer>
       </div>
     </div>
